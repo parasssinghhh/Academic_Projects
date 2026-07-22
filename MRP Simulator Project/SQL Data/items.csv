@@ -1,0 +1,86 @@
+"item_id","item_name","item_level","item_category","procurement_type","supplier_id","unit_of_measure","is_active"
+1,"Industrial Centrifugal Water Pump",0,"Finished Product","Manufactured",NULL,"EA",True
+2,"Pump Assembly",1,"Assembly","Manufactured",NULL,"EA",True
+3,"Electric Motor Assembly",1,"Assembly","Manufactured",NULL,"EA",True
+4,"Base Frame Assembly",1,"Assembly","Manufactured",NULL,"EA",True
+5,"Packaging Assembly",1,"Assembly","Manufactured",NULL,"EA",True
+6,"Casing Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+7,"Rotating Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+8,"Mechanical Seal Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+9,"Suction Flange",2,"Component","Purchased",3,"EA",True
+10,"Discharge Flange",2,"Component","Purchased",3,"EA",True
+11,"Motor Housing Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+12,"Rotor Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+13,"Stator Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+14,"Cooling Fan Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+15,"Terminal Box Assembly",2,"Assembly","Manufactured",NULL,"EA",True
+16,"Base Plate",2,"Component","Purchased",4,"EA",True
+17,"Mounting Feet",2,"Component","Purchased",4,"EA",True
+18,"Coupling Guard",2,"Component","Purchased",4,"EA",True
+19,"Anti Vibration Pads",2,"Component","Purchased",2,"EA",True
+20,"Anchor Bolts",2,"Component","Purchased",8,"EA",True
+21,"Anchor Nuts",2,"Component","Purchased",8,"EA",True
+22,"Flat Washers",2,"Component","Purchased",8,"EA",True
+23,"Carton Box",2,"Component","Purchased",9,"EA",True
+24,"Foam Inserts",2,"Component","Purchased",9,"EA",True
+25,"Plastic Bag",2,"Component","Purchased",9,"EA",True
+26,"User Manual",2,"Component","Purchased",9,"EA",True
+27,"Warranty Card",2,"Component","Purchased",9,"EA",True
+28,"Product Label",2,"Component","Purchased",9,"EA",True
+29,"Pump Casing",3,"Component","Purchased",4,"EA",True
+30,"Casing Cover",3,"Component","Purchased",4,"EA",True
+31,"Wear Ring",3,"Component","Purchased",1,"EA",True
+32,"Casing Gasket",3,"Component","Purchased",7,"EA",True
+33,"Drain Plug",3,"Component","Purchased",3,"EA",True
+34,"Hex Bolt M12",3,"Component","Purchased",8,"EA",True
+35,"Hex Nut M12",3,"Component","Purchased",8,"EA",True
+36,"Flat Washer",3,"Component","Purchased",8,"EA",True
+37,"Spring Washer",3,"Component","Purchased",8,"EA",True
+38,"Pump Shaft",3,"Component","Purchased",4,"EA",True
+39,"Impeller",3,"Component","Purchased",4,"EA",True
+40,"Front Bearing",3,"Component","Purchased",1,"EA",True
+41,"Rear Bearing",3,"Component","Purchased",1,"EA",True
+42,"Bearing Housing",3,"Component","Purchased",4,"EA",True
+43,"Shaft Sleeve",3,"Component","Purchased",4,"EA",True
+44,"Shaft Key",3,"Component","Purchased",8,"EA",True
+45,"Bearing Lock Nut",3,"Component","Purchased",8,"EA",True
+46,"Retaining Ring",3,"Component","Purchased",8,"EA",True
+47,"Spacer Ring",3,"Component","Purchased",4,"EA",True
+48,"Circlip",3,"Component","Purchased",8,"EA",True
+49,"Rotating Seal Ring",3,"Component","Purchased",2,"EA",True
+50,"Stationary Seal Ring",3,"Component","Purchased",2,"EA",True
+51,"Spring",3,"Component","Purchased",8,"EA",True
+52,"O-Ring",3,"Component","Purchased",2,"EA",True
+53,"Seal Retainer",3,"Component","Purchased",2,"EA",True
+54,"Drive Pin",3,"Component","Purchased",8,"EA",True
+55,"Retaining Clip",3,"Component","Purchased",8,"EA",True
+56,"Motor Housing",3,"Component","Purchased",4,"EA",True
+57,"Fan Cover",3,"Component","Purchased",4,"EA",True
+58,"Nameplate",3,"Component","Purchased",9,"EA",True
+59,"Cable Gland",3,"Component","Purchased",10,"EA",True
+60,"Mounting Bolt",3,"Component","Purchased",8,"EA",True
+61,"Mounting Nut",3,"Component","Purchased",8,"EA",True
+62,"Lock Washer",3,"Component","Purchased",8,"EA",True
+63,"Rotor Shaft",3,"Component","Purchased",4,"EA",True
+64,"Rotor Core",3,"Component","Purchased",4,"EA",True
+65,"Copper Bars",3,"Component","Purchased",6,"EA",True
+66,"End Rings",3,"Component","Purchased",5,"EA",True
+67,"Rotor Retaining Ring",3,"Component","Purchased",8,"EA",True
+68,"Balancing Weight",3,"Component","Purchased",5,"EA",True
+69,"Stator Core",3,"Component","Purchased",4,"EA",True
+70,"Copper Windings",3,"Component","Purchased",6,"EA",True
+71,"Insulation Paper",3,"Component","Purchased",7,"EA",True
+72,"Slot Wedges",3,"Component","Purchased",7,"EA",True
+73,"Terminal Leads",3,"Component","Purchased",10,"EA",True
+74,"Insulating Sleeves",3,"Component","Purchased",10,"EA",True
+75,"Cable Ties",3,"Component","Purchased",10,"EA",True
+76,"Varnish Pack",3,"Component","Purchased",7,"EA",True
+77,"Cooling Fan",3,"Component","Purchased",5,"EA",True
+78,"Fan Hub",3,"Component","Purchased",5,"EA",True
+79,"Set Screw",3,"Component","Purchased",8,"EA",True
+80,"Terminal Box",3,"Component","Purchased",10,"EA",True
+81,"Terminal Block",3,"Component","Purchased",10,"EA",True
+82,"Terminal Cover",3,"Component","Purchased",10,"EA",True
+83,"Terminal Screw",3,"Component","Purchased",8,"EA",True
+84,"Terminal Nut",3,"Component","Purchased",8,"EA",True
+85,"Cable Clamp",3,"Component","Purchased",10,"EA",True

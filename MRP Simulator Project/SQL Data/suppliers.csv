@@ -1,0 +1,11 @@
+"supplier_id","supplier_name","city","country","email","phone","is_active"
+1,"SKF India Ltd.","Pune","India","contact@skfindia.com","+91-20-40010001",True
+2,"Trelleborg Sealing Solutions","Bengaluru","India","sales@trelleborg.com","+91-80-40010002",True
+3,"L&T Valves","Chennai","India","info@ltvalves.com","+91-44-40010003",True
+4,"Tata Steel Processing","Jamshedpur","India","support@tatasteel.com","+91-657-4001004",True
+5,"Hindalco Industries","Mumbai","India","sales@hindalco.com","+91-22-40010005",True
+6,"RR Kabel","Vadodara","India","contact@rrkabel.com","+91-265-40010006",True
+7,"Saint-Gobain India","Chennai","India","info@saint-gobain.com","+91-44-40010007",True
+8,"Fasteners India Pvt. Ltd.","Ludhiana","India","sales@fastenersindia.com","+91-161-40010008",True
+9,"Packwell Packaging","Noida","India","info@packwell.com","+91-120-40010009",True
+10,"C&S Electric","Delhi","India","support@cselectric.com","+91-11-40010010",True
